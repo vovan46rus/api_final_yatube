@@ -40,7 +40,9 @@ python manage.py runserver
 http://localhost:8000/redoc/
 ```
 ### Создание токена 🔑
+```
 /api/v1/jwt/create/
+```
 
 ## Автор 👨‍💻
 vovan46rus
