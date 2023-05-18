@@ -35,7 +35,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-### Документция ReDoc 📚
+### Документация ReDoc 📚
 ```
 http://localhost:8000/redoc/
 ```
